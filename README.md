@@ -15,8 +15,8 @@
 **Sobre mi**
 
 Soy Luisa Fernanda Mazo Perez la creadora de CleanAir.
-Soy estudiante de Ingenieria de sistemas e informatica de la universidad nacional de colombia y actualmente me encuentro cursando septimo semestre
-Mi objetivo al crear la aplicacion CleanAir es informar hacerca de la calidad del aire e informar sobre el impacto de la contaminacion en la salud.
+Soy estudiante de Ingenieria de sistemas e informatica de la universidad nacional de colombia y actualmente me encuentro cursando septimo semestre.
+Mi objetivo al crear la aplicacion CleanAir es informar acerca de la calidad del aire e informar sobre el impacto de la contaminacion en la salud.
 
 Si deseas contactarme:
 
