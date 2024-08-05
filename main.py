@@ -8,7 +8,6 @@ def main():
     
     if choice == "Inicio":
         st.subheader("Inicio")
-        st.image('images/CA.jfif')
         st.write("Haz click para ver la calidad del aire hoy")
         if st.button("Calidad del aire hoy"):
             st.write("¡Botón presionado!") 
