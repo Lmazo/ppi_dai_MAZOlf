@@ -12,4 +12,15 @@
 - **Scipy:** Análisis predictivo para estimar los niveles futuros de contaminación y su posible impacto.
 - **Geopandas:** Creación de mapas interactivos que muestran la calidad del aire en diferentes ubicaciones.# CleanAir App
 
-- info personal
+**Sobre mi
+Soy Luisa Fernanda Mazo Perez la creadora de CleanAir.
+Soy estudiante de Ingenieria de sistemas e informatica de la universidad nacional de colombia y actualmente me encuentro cursando septimo semestre
+Mi objetivo al crear la aplicacion CleanAir es informar hacerca de la calidad del aire e informar sobre el impacto de la contaminacion en la salud.
+
+Si deseas contactarme:
+<a href="https://www.linkedin.com/in/luisa-fernanda-mazo-perez-815b5b248/">
+  <img src="https://img.freepik.com/vector-premium/cono-aplicacion-linkedin-red-profesional-mas-grande-mundo-redes-sociales-trabajos-carreras_277909-476.jpg" alt="LinkedIn" style="width: 35px; height: auto;">
+</a>
+
+
+        
